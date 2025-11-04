@@ -30,7 +30,7 @@ This project is a **conversational AI chatbot** built with **Streamlit** and **G
 ## 📂 Project Structure
 
 ```
-├── 3474ba77-3d2a-429a-9c11-2fc7e6ebea67.py    # Main Streamlit app
+├── app.py    # Main Streamlit app
 ├── database.py                                # Database for conversation storage
 ├── .env                                       # Contains GEMINI_API_KEY
 ├── requirements.txt                           # Required dependencies
