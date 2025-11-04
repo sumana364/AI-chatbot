@@ -43,8 +43,8 @@ This project is a **conversational AI chatbot** built with **Streamlit** and **G
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/chatbot-gemini-streamlit.git
-   cd chatbot-gemini-streamlit
+   git clone https://github.com/sumana364/AI-chatbot.git
+   cd AI-chatbot
    ```
 
 2. **Install dependencies**  
@@ -60,7 +60,7 @@ This project is a **conversational AI chatbot** built with **Streamlit** and **G
 
 4. **Run the application**  
    ```bash
-   streamlit run 3474ba77-3d2a-429a-9c11-2fc7e6ebea67.py
+   streamlit run app.py
    ```
 
 ---
